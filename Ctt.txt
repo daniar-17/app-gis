@@ -1,0 +1,15 @@
+# Referensi :
+https://eripratama.medium.com/tutorial-gis-laravel-9-dan-leaflet-js-c3d740f1ff3e
+https://yajrabox.com/docs/laravel-datatables/master/installation
+https://giginau.com/install-laravel-ui-bootstrap-pada-laravel-9/
+
+# yajra/laravel-datatables-oracle “~9.0”
+composer require yajra/laravel-datatables-oracle:"^9.0"
+
+# Guthub
+Name in Github : app-gis
+
+Laravel Ui > Ui Bootstrap > npm install
+
+Noted :
+Laravel Ui : Must Run npm run dev in cmd, after that run php artisan serve in another cmd
